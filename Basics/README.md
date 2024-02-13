@@ -8,7 +8,7 @@ For example: How to run a Genetic Algorithm and what is it?
 Ensure you have Python installed (version 3.x).
 
 3.Clone the repository:
-git clone https://github.com/yourusername/machine-learning-algorithms.git
+git clone [https://github.com/yourusername/machine-learning-algorithms.git](https://github.com/Michikatsuuu/AI/tree/main/Basics)
 
 4.Navigate to the repository:
 cd machine-learning-algorithms
