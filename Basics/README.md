@@ -1,0 +1,1 @@
+This repository is a collection of simple machine learning algorithms implemented in Python. It serves as a playground for experimenting with various algorithms and understanding their behavior. Currently, it includes implementations of a Genetic algorithm, Backpropagation,Hopfield neural network, and a Simple_Delta_rule.
